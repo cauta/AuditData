@@ -1,0 +1,101 @@
+File name, MAC, Probvector
+api-ms-win-core-apiquery-l1-1-0 - Copy (2).dll, bc2342e230358357d8db20f2ecb0ebb1, 0.00598088
+api-ms-win-core-apiquery-l1-1-0 - Copy (3).dll, d25f8f8899ff73d0a5cca5117b7b6fa4, 0.006178232
+api-ms-win-core-apiquery-l1-1-0 - Copy (4).dll, ea089e050fecf31c1bbd4f34157d77f0, 0.00637681
+api-ms-win-core-apiquery-l1-1-0 - Copy.dll, de5d28af785fa3173d949ac9e183be53, 0.006576319
+api-ms-win-core-apiquery-l1-1-0.dll, 21ed17e5bfd1f3f68ab63d5e59019d47, 0.006776454
+api-ms-win-downlevel-advapi32-l1-1-0 - Copy (2).dll, ed99d8ef2a24718c44ad1af0c3415cf6, 0.006976896
+api-ms-win-downlevel-advapi32-l1-1-0 - Copy (3).dll, 068166dda6f1dcd0d390ea9aa5933acc, 0.007177317
+api-ms-win-downlevel-advapi32-l1-1-0 - Copy (4).dll, e66c9a71faa0ca4524eb142515ef5fa7, 0.00737738
+api-ms-win-downlevel-advapi32-l1-1-0 - Copy.dll, 5e2896cd71123ecd31b79c20052596cd, 0.00757674
+api-ms-win-downlevel-advapi32-l1-1-0.dll, 978d2e7ff89660ea93396840b0b58e3d, 0.007775043
+api-ms-win-downlevel-advapi32-l1-1-1 - Copy (2).dll, 4a417a16989cbe820be2e6c0fe14f3ce, 0.007971927
+api-ms-win-downlevel-advapi32-l1-1-1 - Copy (3).dll, ecda1236f9bb9fa62d7386efb2eae6c2, 0.008167028
+api-ms-win-downlevel-advapi32-l1-1-1 - Copy (4).dll, f8f08924d45cd2cad78a3567bee0234f, 0.008359973
+api-ms-win-downlevel-advapi32-l1-1-1 - Copy.dll, 15c1cb0041296c9b885c07fbd89f5c65, 0.00855039
+api-ms-win-downlevel-advapi32-l1-1-1.dll, d0201114b8e00771cc358c59d43034f4, 0.008737901
+api-ms-win-downlevel-advapi32-l2-1-0 - Copy (2).dll, bf27cbafca4766718d509ee771a4ec74, 0.008922128
+api-ms-win-downlevel-advapi32-l2-1-0 - Copy (3).dll, 220be46e699c6184cb4895d7836f2c75, 0.009102694
+api-ms-win-downlevel-advapi32-l2-1-0 - Copy (4).dll, 18ab6f438045a7fd840e4d57bdadfda0, 0.009279223
+api-ms-win-downlevel-advapi32-l2-1-0 - Copy.dll, 03167a45f65b9ecdd16f27fa832cab2a, 0.009451341
+api-ms-win-downlevel-advapi32-l2-1-0.dll, b40a5788600953e78e90ecb99a0f5145, 0.009618679
+api-ms-win-downlevel-advapi32-l2-1-1 - Copy (2).dll, 5ebf4a27eba0b1082a42944b7a60c874, 0.009780872
+api-ms-win-downlevel-advapi32-l2-1-1 - Copy (3).dll, f6ea26a1ba46e6c7706c4c5901c92f3f, 0.009937563
+api-ms-win-downlevel-advapi32-l2-1-1 - Copy (4).dll, 715cdbd3aacaf44d1ffde8d75e239eb5, 0.010088402
+api-ms-win-downlevel-advapi32-l2-1-1 - Copy.dll, 02f74150b10def8a2a2100668a3b6bb3, 0.010233047
+api-ms-win-downlevel-advapi32-l2-1-1.dll, 5ae441a1aa18aa42f39330cd7dfd04b6, 0.010371171
+api-ms-win-downlevel-advapi32-l3-1-0 - Copy (2).dll, bd949676cd00d6cfcc76a6d647a7f942, 0.010502452
+api-ms-win-downlevel-advapi32-l3-1-0 - Copy (3).dll, d875c928caa8fe989c4c855fdf1f811e, 0.010626588
+api-ms-win-downlevel-advapi32-l3-1-0 - Copy (4).dll, ab46ffeaf79b98b5a0bf4e45d61e0aa4, 0.010743285
+api-ms-win-downlevel-advapi32-l3-1-0 - Copy.dll, de1835431c8d89ae09c7a6d0a59afbe7, 0.010852268
+api-ms-win-downlevel-advapi32-l3-1-0.dll, d77b6271eb9c24e9c222f2af599a9ec4, 0.010953278
+api-ms-win-downlevel-advapi32-l4-1-0 - Copy (2).dll, 3aec626d49f2bf5df8e0154191ba1858, 0.011046072
+api-ms-win-downlevel-advapi32-l4-1-0 - Copy (3).dll, f0e1a31c5582b7600b04a0a17179983c, 0.011130426
+api-ms-win-downlevel-advapi32-l4-1-0 - Copy (4).dll, 111b6da3495137d10b4e8ab6b35a5887, 0.011206135
+api-ms-win-downlevel-advapi32-l4-1-0 - Copy.dll, 4d4e7e48a2a9e0581a79c9e42f49ca2a, 0.011273015
+api-ms-win-downlevel-advapi32-l4-1-0.dll, e039e43866ae15dfa7517f7daa6e713e, 0.011330902
+api-ms-win-downlevel-kernel32-l1-1-0 - Copy (2).dll, 6482d7cdbae9737fce6b570ee95a6ce0, 0.011379653
+api-ms-win-downlevel-kernel32-l1-1-0 - Copy (3).dll, bc4ceccb36114f0c39fb02e693d16963, 0.011419149
+api-ms-win-downlevel-kernel32-l1-1-0 - Copy (4).dll, 8030b6cdb0e95ab57fac6d49dcd455e3, 0.011449291
+api-ms-win-downlevel-kernel32-l1-1-0 - Copy.dll, 17878aac552629aba4628f3458a3fcc9, 0.011470006
+api-ms-win-downlevel-kernel32-l1-1-0.dll, 211f814cb48342fdff3a96a418318ae3, 0.011481241
+api-ms-win-downlevel-kernel32-l2-1-0 - Copy (2).dll, 466c6c70fa62fbc6cae45df08b91ebe0, 0.011482969
+api-ms-win-downlevel-kernel32-l2-1-0 - Copy (3).dll, 11cdceb1aca057332c9bbc8400b1d9a0, 0.011475185
+api-ms-win-downlevel-kernel32-l2-1-0 - Copy (4).dll, c987ea974d92b0e5c91b84f17d39b4fc, 0.011457909
+api-ms-win-downlevel-kernel32-l2-1-0 - Copy.dll, d816833cb6f004df1428c81505b38de1, 0.011431184
+api-ms-win-downlevel-kernel32-l2-1-0.dll, 9447afd3b3f52a3131f30b9449460a09, 0.011395075
+api-ms-win-downlevel-ole32-l1-1-0 - Copy (2).dll, 1f559079b496bfcc972f32aca0fb3ca7, 0.011349673
+api-ms-win-downlevel-ole32-l1-1-0 - Copy (3).dll, 844d5acb6f9fb0f0e5b666fb0dbf9451, 0.011295089
+api-ms-win-downlevel-ole32-l1-1-0 - Copy (4).dll, 6569137a57dc3b1fc33d78dfd875aab7, 0.011231458
+api-ms-win-downlevel-ole32-l1-1-0 - Copy.dll, a3065f5e7ed9076096090b1d61daf9fe, 0.011158936
+api-ms-win-downlevel-ole32-l1-1-0.dll, 382437c6977ebb6a7c7517378243bbfe, 0.0110777
+api-ms-win-downlevel-ole32-l1-1-1 - Copy (2).dll, 84c80617d22553cd27756ddb613c0292, 0.010987947
+api-ms-win-downlevel-ole32-l1-1-1 - Copy (3).dll, fbb314db15c82c5a9f5f85ee42be2b79, 0.010889894
+api-ms-win-downlevel-ole32-l1-1-1 - Copy (4).dll, f3746e20e884ea8825f486ae74e296f3, 0.010783778
+api-ms-win-downlevel-ole32-l1-1-1 - Copy.dll, f0dcec00b33403007697caddce002fda, 0.010669851
+api-ms-win-downlevel-ole32-l1-1-1.dll, e945df5a914a265a76f76b84882dd449, 0.010548385
+api-ms-win-downlevel-shell32-l1-1-0 - Copy (2).dll, ae629afb095980d1a0c23eb0bab1820c, 0.010419664
+api-ms-win-downlevel-shell32-l1-1-0 - Copy (3).dll, 15deb3870c388187bbd23f669c2faf9f, 0.01028399
+api-ms-win-downlevel-shell32-l1-1-0 - Copy (4).dll, a5bd4ad2530c6ddee9845d13d4a5d32b, 0.010141676
+api-ms-win-downlevel-shell32-l1-1-0 - Copy.dll, 2da8b807b65b1ed73fead88be803d8a0, 0.009993048
+api-ms-win-downlevel-shell32-l1-1-0.dll, 31fd39c9be3a080a33f1b38ebeff5763, 0.009838443
+api-ms-win-downlevel-shlwapi-l1-1-0 - Copy (2).dll, 23b604572ae758341d22e1de7669e6a0, 0.009678207
+api-ms-win-downlevel-shlwapi-l1-1-0 - Copy (3).dll, 92ae6c4977fb1a541285b7dc7d875573, 0.009512697
+api-ms-win-downlevel-shlwapi-l1-1-0 - Copy (4).dll, 6f7657c982b252f06e1ccf7878135fcc, 0.009342272
+api-ms-win-downlevel-shlwapi-l1-1-0 - Copy.dll, bb34239b1d84f2a6e8cc85013c89555d, 0.009167303
+api-ms-win-downlevel-shlwapi-l1-1-0.dll, 50bc957852d56cd0469c40b516631e5d, 0.00898816
+api-ms-win-downlevel-shlwapi-l1-1-1 - Copy (2).dll, 4b31ddac3154d0e9bd75c1542750fbca, 0.008805218
+api-ms-win-downlevel-shlwapi-l1-1-1 - Copy (3).dll, bff334af4c60afa3de729a42a9a5c4e0, 0.008618857
+api-ms-win-downlevel-shlwapi-l1-1-1 - Copy (4).dll, a77a1b0e574c593102e563b63d507e95, 0.008429452
+api-ms-win-downlevel-shlwapi-l1-1-1 - Copy.dll, d87f15018519e9144b49cb0afb728c59, 0.008237382
+api-ms-win-downlevel-shlwapi-l1-1-1.dll, b9f229227c7acdf975f407f70ea6e00d, 0.008043021
+api-ms-win-downlevel-shlwapi-l2-1-0 - Copy (2).dll, 3d5afb5fc50f2aa0359a4b5aeb80dbf7, 0.007846742
+api-ms-win-downlevel-shlwapi-l2-1-0 - Copy (3).dll, e65de95a09a52ea9e3c5a65ae1c9fb37, 0.007648912
+api-ms-win-downlevel-shlwapi-l2-1-0 - Copy (4).dll, b4df1a0834344ca750f1b2f5043b2ace, 0.007449895
+api-ms-win-downlevel-shlwapi-l2-1-0 - Copy.dll, ca83a1923bd6fa6942a3881dfe08817f, 0.007250047
+api-ms-win-downlevel-shlwapi-l2-1-0.dll, ce4da357e3cee4461dfcafd072c84fcf, 0.007049716
+api-ms-win-downlevel-user32-l1-1-0 - Copy (2).dll, b39a0ac64c8fdb66dea6ce60754ad550, 0.006849243
+api-ms-win-downlevel-user32-l1-1-0 - Copy (3).dll, 071a31d83ba54fa49f44eabf792a93a9, 0.00664896
+api-ms-win-downlevel-user32-l1-1-0 - Copy (4) - Copy.dll, 8f117cc13fc626144e59106275cb3f59, 0.006449187
+api-ms-win-downlevel-user32-l1-1-0 - Copy (4).dll, eaf08044bc105479dc35e0ad8c4c095b, 0.006250236
+api-ms-win-downlevel-user32-l1-1-0 - Copy (5).dll, 020ca1d69a8906b3892d7f66dd37a84e, 0.006052406
+api-ms-win-downlevel-user32-l1-1-0 - Copy - Copy.dll, 2dfe09aea9dc1a0d5ae7ca0a7498b1bb, 0.005855983
+api-ms-win-downlevel-user32-l1-1-0 - Copy.dll, 989a3cd2169228142a77ac75e963cc19, 0.005661242
+api-ms-win-downlevel-user32-l1-1-0.dll, 2eb7cecdc87310d758b25ddd942725e7, 0.005468445
+api-ms-win-downlevel-user32-l1-1-1 - Copy (2) - Copy.dll, afcccb4146256722b88aa65d3f689c69, 0.005277838
+api-ms-win-downlevel-user32-l1-1-1 - Copy (2).dll, 469fa46eecbd2ca6de9e7511c757589a, 0.005089656
+api-ms-win-downlevel-user32-l1-1-1 - Copy (3) - Copy.dll, f69d716b51b992ab912922de8a6a3306, 0.004904119
+api-ms-win-downlevel-user32-l1-1-1 - Copy (3).dll, 767e623516777eb66f12901681afccf6, 0.004721432
+api-ms-win-downlevel-user32-l1-1-1 - Copy (4) - Copy.dll, e1b01d207f14d8915ff5fb94ab14474b, 0.004541786
+api-ms-win-downlevel-user32-l1-1-1 - Copy (4).dll, 5edd551837251aa830b0eb0f6ee0fdf2, 0.004365356
+api-ms-win-downlevel-user32-l1-1-1 - Copy (5).dll, b4efd5332cda1ba5760abb5125570c57, 0.004192305
+api-ms-win-downlevel-user32-l1-1-1 - Copy - Copy.dll, 2079c563ed5f3244471fa21d8356eb6a, 0.00402278
+api-ms-win-downlevel-user32-l1-1-1 - Copy.dll, aef5e39c1fc2814130f835196d035a6a, 0.003856913
+api-ms-win-downlevel-user32-l1-1-1.dll, 0e7ab2db2be039a6dbca82e0cdb4feec, 0.003694822
+api-ms-win-downlevel-version-l1-1-0 - Copy (2) - Copy.dll, 073e034471e0dfa87791761492bb978f, 0.003536612
+api-ms-win-downlevel-version-l1-1-0 - Copy (2).dll, f4260602a44dae8f8a1482bdad8c368f, 0.003382372
+api-ms-win-downlevel-version-l1-1-0 - Copy (3) - Copy.dll, 35ccee571ee225f4864db2b37dc624b4, 0.00323218
+api-ms-win-downlevel-version-l1-1-0 - Copy (3).dll, ebd1bed82a854d7825bafe1fb9778c61, 0.003086099
+api-ms-win-downlevel-version-l1-1-0 - Copy (4).dll, 0d4f486074806ac3667ba9705bee9a43, 0.00294418
+api-ms-win-downlevel-version-l1-1-0 - Copy.dll, c99ff3ddf851495cf59c026c2c7296c4, 0.002806461
+api-ms-win-downlevel-version-l1-1-0.dll, bbeec407a45564a63097c947559f9aee, 0.002672968
